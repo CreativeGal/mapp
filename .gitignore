@@ -1,8 +1,0 @@
-_notes
-.DS_Store
-node_modules
-Files/
-App_Data/
-packages/
-packages.config
-Web.Debug.config
