@@ -18,11 +18,6 @@
             <siteMapNode url="./SupportPrograms/MiniMAPP.aspx" title="Mini-MAPP Trainings" description="Mini-MAPP is a condensed overview of the 30-hour GPSII/MAPP Program." keywords="Mini-MAPP" level="2" />
             <siteMapNode url="./SupportPrograms/CaringforOurOwnAgencyOverviews.aspx" title="Caring Four Our Own Agency Overviews" description="These six-hour overviews are designed specifically to familiarize agency staff with Caring for Our Own, a kinship/relative caregiver educational support group training program." keywords="Caring Four Our Own Agency Overviews" level="2" />
         </siteMapNode>
-        <!--<siteMapNode url="" title="Special Topics" description="" keywords="Special Topics" level="1" />-->
-        <!--<siteMapNode url="" title="Regional Networking" description="" keywords="Regional Networking" level="1" />-->
         <siteMapNode url="./LeadersSeminar/AnnualMAPPLeaderSeminar.aspx" title="Leaders Seminar" description="This seminar provides an opportunity for MAPP leaders to increase their knowledge about regional and state level issues that have an impact on foster care and adoption." keywords="MAPP Leader Seminar" level="1" />
-        <!--<siteMapNode url="" title="iLinc" description="" keywords="iLinc" level="1" />-->
-        <!--<siteMapNode url="" title="TFBH" description="" keywords="" level="1" />-->
-        <!--<siteMapNode url="./Resources/Default.aspx" title="Resources" description="" keywords="" level="1" />-->
     </siteMapNode>
 </siteMap>
